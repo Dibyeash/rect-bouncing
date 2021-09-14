@@ -1,1 +1,1 @@
-# rect-bouncing
+# Box Class
